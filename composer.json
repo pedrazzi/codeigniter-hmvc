@@ -3,7 +3,7 @@
                 "vendor-dir":"application/vendor"
         },
 	"description": "The CodeIgniter framework - modular HMVC",
-	"name": "pedrazzi/codeigniter/hmvc",
+	"name": "pedrazzi/codeigniterhmvc",
 	"type": "project",
 	"license": "MIT",
 	"support": {
