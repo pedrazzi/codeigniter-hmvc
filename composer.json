@@ -1,0 +1,16 @@
+{
+        "config": {
+                "vendor-dir":"application/vendor"
+        },
+	"description": "The CodeIgniter framework - modular HMVC",
+	"name": "pedrazzi/codeigniter-hmvc",
+	"type": "project",
+	"license": "MIT",
+	"support": {
+		"wiki": "https://github.com/pedrazzi/codeigniter-hmvc/wiki",
+		"source": "https://github.com/pedrazzi/codeigniter-hmvc"
+	},
+	"require": {
+		"php": ">=5.4.8"
+	}
+}
